@@ -4,7 +4,7 @@ description: Create emotionally authentic comedy by oscillating between manic en
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.4427
+  version: 1.0.4428
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - emotional-range
